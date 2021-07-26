@@ -1,0 +1,19 @@
+@import url('modal.css');
+@import url('slider.css');
+.header {
+  padding: 30px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+}
+.maps {
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+}
+#map {
+  width: 500px;
+  height: 500px;
+  padding: 0;
+  margin: 30px;
+}
